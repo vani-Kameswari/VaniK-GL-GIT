@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "expenseDescription": "Purchase Milk",
+      "payeeName": "Ramesh",
+      "price": 100,
+      "date": "2023-01-26",
+      "id": 1
+    },
+    {
+      "expenseDescription": "Petrol",
+      "payeeName": "Rahul",
+      "price": 200,
+      "date": "2023-02-15",
+      "id": 2
+    },
+    {
+      "expenseDescription": "Outing",
+      "payeeName": "Ramesh",
+      "price": 1300,
+      "date": "2023-01-20",
+      "id": 3
+    },
+    {
+      "expenseDescription": "Movie",
+      "payeeName": "Ramesh",
+      "price": 500,
+      "date": "2023-02-05T00:00:00.000Z",
+      "id": 4
+    },
+    {
+      "expenseDescription": "vegetables ",
+      "payeeName": "Ramesh",
+      "price": 200,
+      "date": "2023-03-15T00:00:00.000Z",
+      "id": 5
+    }
+  ]
+}
